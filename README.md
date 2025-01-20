@@ -1,7 +1,7 @@
-##🧠 Parkinson's Disease Detection using MRI Scans 🏥
+🧠 Parkinson's Disease Detection using MRI Scans 🏥
 Welcome to the Parkinson's Disease Detection repository! This project focuses on building a hybrid machine learning model to detect Parkinson's disease using MRI scans. The model combines classical Convolutional Neural Networks (CNNs) with a quantum-inspired layer for accurate binary classification (Non-PD vs. PD).
 
-##🌟 Key Features
+🌟 Key Features
 Hybrid Model: Combines classical CNNs with a quantum-inspired layer for improved performance.
 
 MRI Data Preprocessing: Converts, resizes, and normalizes MRI images for model input.
@@ -12,7 +12,7 @@ Visualizations: Activation maps, weight heatmaps, and 3D loss landscapes for bet
 
 Easy to Use: Well-documented code and modular design for easy customization.
 
-##🛠️ Technologies Used
+🛠️ Technologies Used
 Python 🐍
 
 PyTorch 🔥
@@ -25,7 +25,7 @@ Seaborn 🎨
 
 Scikit-learn 🤖
 
-##📂 Dataset
+📂 Dataset
 The dataset used in this project is the NTUA Parkinson Dataset, which contains MRI scans of patients categorized into:
 
 Non-PD Patients: Healthy individuals without Parkinson's disease.
@@ -34,7 +34,7 @@ PD Patients: Individuals diagnosed with Parkinson's disease.
 
 The dataset is organized into folders for each patient, with subfolders containing MRI images in PNG format.
 
-##🚀 How It Works
+🚀 How It Works
 1. Data Preprocessing
 Convert MRI images to grayscale.
 
@@ -74,7 +74,7 @@ Weight Heatmaps: Inspect the learned filters.
 
 3D Loss Landscape: Illustrate the optimization process.
 
-##📊 Results
+📊 Results
 Validation Accuracy: Achieves X% accuracy on the validation set.
 
 ROC Curve: Area under the curve (AUC) of Y.
@@ -87,7 +87,7 @@ Non-PD: A%
 
 PD: B%
 
-##🖼️ Visualizations
+🖼️ Visualizations
 Activation Map
 Activation Map
 Visualization of the activation map for the first convolutional layer.
